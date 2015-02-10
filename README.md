@@ -15,3 +15,21 @@ At first, we will do it with HTML. Then extend to APP if necessorily.
 
 
 ---Process Overview---
+Develop: Organize code from github etc. Based on js. (node.js, angular.js)
+	1. Design login (-)
+	2. Design knowledge walls (-)
+	3. Design the story of each wall (-)
+
+Custom: 
+	1. Login (unsupport-)
+	2. Select knowledge wall
+	3. Break the wall by passing story
+
+
+Milestone:
+	0.1 	Can login, see knowledge wall, select one wall, break the story;
+	0.5	Full knowledge structure;
+	1.0	Release-able UI, have stories which are enjoyable and save time > 80% when time > 1 hour;
+	
+	
+
