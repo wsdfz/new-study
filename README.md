@@ -28,8 +28,13 @@ Custom:
 
 Milestone:
 	0.1 	Can login, see knowledge wall, select one wall, break the story;
+		Due month: 02/2015
+
 	0.5	Full knowledge structure;
+		Due month: 05/2015
+
 	1.0	Release-able UI, have stories which are enjoyable and save time > 80% when time > 1 hour;
+		Due month: 08/2015
 	
 	
 
